@@ -2,9 +2,9 @@
 
 A full-stack MERN Task Management application that helps users organize, track, and manage their daily tasks through a Kanban-style board. The application includes secure JWT authentication, drag-and-drop task management, priority tracking, due dates, activity logs, and MongoDB integration.
 
-## 🔗 Live Demo
+# 🔗 Live Demo
 
-https://personal-task-board.vercel.app
+# https://personal-task-board.vercel.app
 
 ---
 
